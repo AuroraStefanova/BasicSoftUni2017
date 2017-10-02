@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\12.Volleyball\bin\Debug\12.Volleyball.exe.config
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\12.Volleyball\bin\Debug\12.Volleyball.exe
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\12.Volleyball\bin\Debug\12.Volleyball.pdb
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\12.Volleyball\obj\Debug\12.Volleyball.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\12.Volleyball\obj\Debug\12.Volleyball.exe
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\12.Volleyball\obj\Debug\12.Volleyball.pdb

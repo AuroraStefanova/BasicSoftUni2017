@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\while\bin\Debug\@while.exe.config
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\while\bin\Debug\@while.exe
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\while\bin\Debug\@while.pdb
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\while\obj\Debug\@while.exe
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\while\obj\Debug\@while.pdb

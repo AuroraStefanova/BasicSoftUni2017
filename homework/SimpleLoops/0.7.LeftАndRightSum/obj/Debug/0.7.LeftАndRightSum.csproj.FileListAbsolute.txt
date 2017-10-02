@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleLoops\0.7.LeftАndRightSum\bin\Debug\0.7.LeftАndRightSum.exe.config
+G:\SoftuniBasic2017\homework\SimpleLoops\0.7.LeftАndRightSum\bin\Debug\0.7.LeftАndRightSum.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\0.7.LeftАndRightSum\bin\Debug\0.7.LeftАndRightSum.pdb
+G:\SoftuniBasic2017\homework\SimpleLoops\0.7.LeftАndRightSum\obj\Debug\0.7.LeftАndRightSum.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\SimpleLoops\0.7.LeftАndRightSum\obj\Debug\0.7.LeftАndRightSum.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\0.7.LeftАndRightSum\obj\Debug\0.7.LeftАndRightSum.pdb

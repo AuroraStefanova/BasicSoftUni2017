@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\01.ExcellentEvaluation\bin\Debug\01.ExcellentEvaluation.exe.config
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\01.ExcellentEvaluation\bin\Debug\01.ExcellentEvaluation.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\01.ExcellentEvaluation\bin\Debug\01.ExcellentEvaluation.pdb
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\01.ExcellentEvaluation\obj\Debug\01.ExcellentEvaluation.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\01.ExcellentEvaluation\obj\Debug\01.ExcellentEvaluation.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\01.ExcellentEvaluation\obj\Debug\01.ExcellentEvaluation.pdb

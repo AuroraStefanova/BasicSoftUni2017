@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\02.WorkHours\bin\Debug\02.WorkHours.exe.config
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\02.WorkHours\bin\Debug\02.WorkHours.exe
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\02.WorkHours\bin\Debug\02.WorkHours.pdb
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\02.WorkHours\obj\Debug\02.WorkHours.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\02.WorkHours\obj\Debug\02.WorkHours.exe
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\02.WorkHours\obj\Debug\02.WorkHours.pdb

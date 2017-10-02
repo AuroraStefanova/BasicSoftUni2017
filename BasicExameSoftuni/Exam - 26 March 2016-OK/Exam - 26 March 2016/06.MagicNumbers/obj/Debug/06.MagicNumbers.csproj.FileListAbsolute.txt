@@ -1,0 +1,9 @@
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\06.MagicNumbers\bin\Debug\06.MagicNumbers.exe.config
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\06.MagicNumbers\bin\Debug\06.MagicNumbers.exe
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\06.MagicNumbers\bin\Debug\06.MagicNumbers.pdb
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\06.MagicNumbers\obj\Debug\06.MagicNumbers.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\06.MagicNumbers\obj\Debug\06.MagicNumbers.exe
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\06.MagicNumbers\obj\Debug\06.MagicNumbers.pdb
+G:\SoftUni\SoftuniBasic2017\BasicExameSoftuni\Exam - 26 March 2016-OK\Exam - 26 March 2016\06.MagicNumbers\bin\Debug\06.MagicNumbers.exe.config
+G:\SoftUni\SoftuniBasic2017\BasicExameSoftuni\Exam - 26 March 2016-OK\Exam - 26 March 2016\06.MagicNumbers\obj\Debug\06.MagicNumbers.exe
+G:\SoftUni\SoftuniBasic2017\BasicExameSoftuni\Exam - 26 March 2016-OK\Exam - 26 March 2016\06.MagicNumbers\obj\Debug\06.MagicNumbers.pdb

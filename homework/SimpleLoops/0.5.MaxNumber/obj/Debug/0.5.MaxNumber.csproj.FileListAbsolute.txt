@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleLoops\0.5.MaxNumber\bin\Debug\0.5.MaxNumber.exe.config
+G:\SoftuniBasic2017\homework\SimpleLoops\0.5.MaxNumber\bin\Debug\0.5.MaxNumber.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\0.5.MaxNumber\bin\Debug\0.5.MaxNumber.pdb
+G:\SoftuniBasic2017\homework\SimpleLoops\0.5.MaxNumber\obj\Debug\0.5.MaxNumber.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\SimpleLoops\0.5.MaxNumber\obj\Debug\0.5.MaxNumber.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\0.5.MaxNumber\obj\Debug\0.5.MaxNumber.pdb

@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\1to100\bin\Debug\1to100.exe.config
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\1to100\bin\Debug\1to100.exe
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\1to100\bin\Debug\1to100.pdb
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\1to100\obj\Debug\1to100.exe
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\1to100\obj\Debug\1to100.pdb

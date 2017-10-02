@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\04.Hospital\bin\Debug\04.Hospital.exe.config
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\04.Hospital\bin\Debug\04.Hospital.exe
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\04.Hospital\bin\Debug\04.Hospital.pdb
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\04.Hospital\obj\Debug\04.Hospital.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\04.Hospital\obj\Debug\04.Hospital.exe
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\04.Hospital\obj\Debug\04.Hospital.pdb

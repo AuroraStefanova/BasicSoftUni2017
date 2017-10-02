@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\06.specialNum\bin\Debug\06.specialNum.exe.config
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\06.specialNum\bin\Debug\06.specialNum.exe
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\06.specialNum\bin\Debug\06.specialNum.pdb
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\06.specialNum\obj\Debug\06.specialNum.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\06.specialNum\obj\Debug\06.specialNum.exe
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\06.specialNum\obj\Debug\06.specialNum.pdb

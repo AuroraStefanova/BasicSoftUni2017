@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleLoops\0.8.OddEvenSum\bin\Debug\0.8.OddEvenSum.exe.config
+G:\SoftuniBasic2017\homework\SimpleLoops\0.8.OddEvenSum\bin\Debug\0.8.OddEvenSum.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\0.8.OddEvenSum\bin\Debug\0.8.OddEvenSum.pdb
+G:\SoftuniBasic2017\homework\SimpleLoops\0.8.OddEvenSum\obj\Debug\0.8.OddEvenSum.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\SimpleLoops\0.8.OddEvenSum\obj\Debug\0.8.OddEvenSum.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\0.8.OddEvenSum\obj\Debug\0.8.OddEvenSum.pdb

@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\SquareFrame\bin\Debug\SquareFrame.exe.config
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\SquareFrame\bin\Debug\SquareFrame.exe
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\SquareFrame\bin\Debug\SquareFrame.pdb
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\SquareFrame\obj\Debug\SquareFrame.exe
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\SquareFrame\obj\Debug\SquareFrame.pdb

@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.5. InvalidNumber\bin\Debug\_0._5.InvalidNumber.exe.config
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.5. InvalidNumber\bin\Debug\_0._5.InvalidNumber.exe
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.5. InvalidNumber\bin\Debug\_0._5.InvalidNumber.pdb
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.5. InvalidNumber\obj\Debug\0.5. InvalidNumber.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.5. InvalidNumber\obj\Debug\_0._5.InvalidNumber.exe
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.5. InvalidNumber\obj\Debug\_0._5.InvalidNumber.pdb

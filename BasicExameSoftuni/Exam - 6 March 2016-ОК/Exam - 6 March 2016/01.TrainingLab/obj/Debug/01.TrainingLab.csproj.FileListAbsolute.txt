@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\01.TrainingLab\bin\Debug\01.TrainingLab.exe.config
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\01.TrainingLab\bin\Debug\01.TrainingLab.exe
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\01.TrainingLab\bin\Debug\01.TrainingLab.pdb
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\01.TrainingLab\obj\Debug\01.TrainingLab.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\01.TrainingLab\obj\Debug\01.TrainingLab.exe
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\01.TrainingLab\obj\Debug\01.TrainingLab.pdb

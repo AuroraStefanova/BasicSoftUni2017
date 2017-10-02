@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.2.inchesToCentimeters\bin\Debug\0.2.inchesToCentimeters.exe.config
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.2.inchesToCentimeters\bin\Debug\0.2.inchesToCentimeters.exe
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.2.inchesToCentimeters\bin\Debug\0.2.inchesToCentimeters.pdb
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.2.inchesToCentimeters\obj\Debug\0.2.inchesToCentimeters.exe
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.2.inchesToCentimeters\obj\Debug\0.2.inchesToCentimeters.pdb

@@ -1,0 +1,6 @@
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\03.Camp\bin\Debug\03.Camp.exe.config
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\03.Camp\bin\Debug\03.Camp.exe
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\03.Camp\bin\Debug\03.Camp.pdb
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\03.Camp\obj\Debug\03.Camp.csprojResolveAssemblyReference.cache
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\03.Camp\obj\Debug\03.Camp.exe
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\03.Camp\obj\Debug\03.Camp.pdb

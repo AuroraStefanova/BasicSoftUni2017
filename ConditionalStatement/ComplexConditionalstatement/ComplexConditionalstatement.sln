@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexConditionalstatement", "ComplexConditionalstatement\ComplexConditionalstatement.csproj", "{F32AEF6F-DDAE-4F03-B276-2E73C8FAC361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LitlleMarcet", "LitlleMarcet\LitlleMarcet.csproj", "{A1C091A9-7FFD-4533-AA9D-AF8F41638223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F32AEF6F-DDAE-4F03-B276-2E73C8FAC361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32AEF6F-DDAE-4F03-B276-2E73C8FAC361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32AEF6F-DDAE-4F03-B276-2E73C8FAC361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32AEF6F-DDAE-4F03-B276-2E73C8FAC361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C091A9-7FFD-4533-AA9D-AF8F41638223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C091A9-7FFD-4533-AA9D-AF8F41638223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C091A9-7FFD-4533-AA9D-AF8F41638223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C091A9-7FFD-4533-AA9D-AF8F41638223}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

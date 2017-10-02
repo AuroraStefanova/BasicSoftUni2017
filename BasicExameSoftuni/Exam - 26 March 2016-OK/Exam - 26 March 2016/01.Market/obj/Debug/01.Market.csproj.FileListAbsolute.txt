@@ -1,0 +1,9 @@
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\01.Market\bin\Debug\01.Market.exe.config
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\01.Market\bin\Debug\01.Market.exe
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\01.Market\bin\Debug\01.Market.pdb
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\01.Market\obj\Debug\01.Market.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\01.Market\obj\Debug\01.Market.exe
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\01.Market\obj\Debug\01.Market.pdb
+G:\SoftUni\SoftuniBasic2017\BasicExameSoftuni\Exam - 26 March 2016-OK\Exam - 26 March 2016\01.Market\bin\Debug\01.Market.exe.config
+G:\SoftUni\SoftuniBasic2017\BasicExameSoftuni\Exam - 26 March 2016-OK\Exam - 26 March 2016\01.Market\obj\Debug\01.Market.exe
+G:\SoftUni\SoftuniBasic2017\BasicExameSoftuni\Exam - 26 March 2016-OK\Exam - 26 March 2016\01.Market\obj\Debug\01.Market.pdb

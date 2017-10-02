@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleCalculations\13.thousandDaysAfterBirth\bin\Debug\13.thousandDaysAfterBirth.exe.config
+G:\SoftuniBasic2017\homework\SimpleCalculations\13.thousandDaysAfterBirth\bin\Debug\13.thousandDaysAfterBirth.exe
+G:\SoftuniBasic2017\homework\SimpleCalculations\13.thousandDaysAfterBirth\bin\Debug\13.thousandDaysAfterBirth.pdb
+G:\SoftuniBasic2017\homework\SimpleCalculations\13.thousandDaysAfterBirth\obj\Debug\13.thousandDaysAfterBirth.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\SimpleCalculations\13.thousandDaysAfterBirth\obj\Debug\13.thousandDaysAfterBirth.exe
+G:\SoftuniBasic2017\homework\SimpleCalculations\13.thousandDaysAfterBirth\obj\Debug\13.thousandDaysAfterBirth.pdb

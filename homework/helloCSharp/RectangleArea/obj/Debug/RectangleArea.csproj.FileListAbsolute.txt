@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\homework\helloCSharp\RectangleArea\bin\Debug\RectangleArea.exe.config
+G:\SoftuniBasic2017\homework\helloCSharp\RectangleArea\bin\Debug\RectangleArea.exe
+G:\SoftuniBasic2017\homework\helloCSharp\RectangleArea\bin\Debug\RectangleArea.pdb
+G:\SoftuniBasic2017\homework\helloCSharp\RectangleArea\obj\Debug\RectangleArea.exe
+G:\SoftuniBasic2017\homework\helloCSharp\RectangleArea\obj\Debug\RectangleArea.pdb

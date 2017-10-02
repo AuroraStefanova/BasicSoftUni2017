@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.4.ConcatenateData\bin\Debug\0.4.ConcatenateData.exe.config
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.4.ConcatenateData\bin\Debug\0.4.ConcatenateData.exe
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.4.ConcatenateData\bin\Debug\0.4.ConcatenateData.pdb
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.4.ConcatenateData\obj\Debug\0.4.ConcatenateData.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.4.ConcatenateData\obj\Debug\0.4.ConcatenateData.exe
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.4.ConcatenateData\obj\Debug\0.4.ConcatenateData.pdb

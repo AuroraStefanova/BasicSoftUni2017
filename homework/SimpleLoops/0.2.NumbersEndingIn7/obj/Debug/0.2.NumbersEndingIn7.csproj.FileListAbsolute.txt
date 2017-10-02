@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleLoops\0.2.NumbersEndingIn7\bin\Debug\0.2.NumbersEndingIn7.exe.config
+G:\SoftuniBasic2017\homework\SimpleLoops\0.2.NumbersEndingIn7\bin\Debug\0.2.NumbersEndingIn7.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\0.2.NumbersEndingIn7\bin\Debug\0.2.NumbersEndingIn7.pdb
+G:\SoftuniBasic2017\homework\SimpleLoops\0.2.NumbersEndingIn7\obj\Debug\0.2.NumbersEndingIn7.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\0.2.NumbersEndingIn7\obj\Debug\0.2.NumbersEndingIn7.pdb
+G:\SoftuniBasic2017\homework\SimpleLoops\0.2.NumbersEndingIn7\obj\Debug\0.2.NumbersEndingIn7.csprojResolveAssemblyReference.cache

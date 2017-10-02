@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\04.Histogram\bin\Debug\04.Histogram.exe.config
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\04.Histogram\bin\Debug\04.Histogram.exe
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\04.Histogram\bin\Debug\04.Histogram.pdb
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\04.Histogram\obj\Debug\04.Histogram.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\04.Histogram\obj\Debug\04.Histogram.exe
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\04.Histogram\obj\Debug\04.Histogram.pdb

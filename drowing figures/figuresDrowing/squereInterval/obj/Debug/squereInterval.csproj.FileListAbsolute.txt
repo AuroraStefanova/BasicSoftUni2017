@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\squereInterval\bin\Debug\squereInterval.exe.config
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\squereInterval\bin\Debug\squereInterval.exe
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\squereInterval\bin\Debug\squereInterval.pdb
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\squereInterval\obj\Debug\squereInterval.exe
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\squereInterval\obj\Debug\squereInterval.pdb

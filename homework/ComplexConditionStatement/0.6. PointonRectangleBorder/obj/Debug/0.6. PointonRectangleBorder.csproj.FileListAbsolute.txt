@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.6. PointonRectangleBorder\bin\Debug\_0._6.PointonRectangleBorder.exe.config
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.6. PointonRectangleBorder\bin\Debug\_0._6.PointonRectangleBorder.exe
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.6. PointonRectangleBorder\bin\Debug\_0._6.PointonRectangleBorder.pdb
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.6. PointonRectangleBorder\obj\Debug\0.6. PointonRectangleBorder.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.6. PointonRectangleBorder\obj\Debug\_0._6.PointonRectangleBorder.exe
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.6. PointonRectangleBorder\obj\Debug\_0._6.PointonRectangleBorder.pdb

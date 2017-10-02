@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.10.RadiansToDegrees\bin\Debug\0.10.RadiansToDegrees.exe.config
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.10.RadiansToDegrees\bin\Debug\0.10.RadiansToDegrees.exe
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.10.RadiansToDegrees\bin\Debug\0.10.RadiansToDegrees.pdb
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.10.RadiansToDegrees\obj\Debug\0.10.RadiansToDegrees.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.10.RadiansToDegrees\obj\Debug\0.10.RadiansToDegrees.exe
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.10.RadiansToDegrees\obj\Debug\0.10.RadiansToDegrees.pdb

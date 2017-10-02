@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.exe.config
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.exe
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.pdb
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.exe
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.pdb

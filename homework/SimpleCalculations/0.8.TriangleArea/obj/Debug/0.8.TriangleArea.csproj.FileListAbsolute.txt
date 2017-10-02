@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.8.TriangleArea\bin\Debug\0.8.TriangleArea.exe.config
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.8.TriangleArea\bin\Debug\0.8.TriangleArea.exe
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.8.TriangleArea\bin\Debug\0.8.TriangleArea.pdb
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.8.TriangleArea\obj\Debug\0.8.TriangleArea.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.8.TriangleArea\obj\Debug\0.8.TriangleArea.exe
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.8.TriangleArea\obj\Debug\0.8.TriangleArea.pdb

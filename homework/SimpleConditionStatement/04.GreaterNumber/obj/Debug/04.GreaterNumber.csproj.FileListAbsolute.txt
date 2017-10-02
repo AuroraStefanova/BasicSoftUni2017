@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\04.GreaterNumber\bin\Debug\04.GreaterNumber.exe.config
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\04.GreaterNumber\bin\Debug\04.GreaterNumber.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\04.GreaterNumber\bin\Debug\04.GreaterNumber.pdb
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\04.GreaterNumber\obj\Debug\04.GreaterNumber.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\04.GreaterNumber\obj\Debug\04.GreaterNumber.pdb

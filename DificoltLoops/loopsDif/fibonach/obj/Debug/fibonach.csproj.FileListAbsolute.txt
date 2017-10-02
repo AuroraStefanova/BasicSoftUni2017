@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\fibonach\bin\Debug\fibonach.exe.config
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\fibonach\bin\Debug\fibonach.exe
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\fibonach\bin\Debug\fibonach.pdb
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\fibonach\obj\Debug\fibonach.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\fibonach\obj\Debug\fibonach.exe
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\fibonach\obj\Debug\fibonach.pdb

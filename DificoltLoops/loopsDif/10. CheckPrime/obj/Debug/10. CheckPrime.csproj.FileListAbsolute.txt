@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\10. CheckPrime\bin\Debug\_10.CheckPrime.exe.config
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\10. CheckPrime\bin\Debug\_10.CheckPrime.exe
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\10. CheckPrime\bin\Debug\_10.CheckPrime.pdb
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\10. CheckPrime\obj\Debug\10. CheckPrime.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\10. CheckPrime\obj\Debug\_10.CheckPrime.exe
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\10. CheckPrime\obj\Debug\_10.CheckPrime.pdb

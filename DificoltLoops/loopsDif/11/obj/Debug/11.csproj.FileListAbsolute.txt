@@ -1,0 +1,3 @@
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\11\bin\Debug\11.exe.config
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\11\obj\Debug\11.exe
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\11\obj\Debug\11.pdb

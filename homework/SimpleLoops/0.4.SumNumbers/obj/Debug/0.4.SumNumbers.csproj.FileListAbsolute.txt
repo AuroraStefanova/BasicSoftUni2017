@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleLoops\0.4.SumNumbers\bin\Debug\0.4.SumNumbers.exe.config
+G:\SoftuniBasic2017\homework\SimpleLoops\0.4.SumNumbers\bin\Debug\0.4.SumNumbers.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\0.4.SumNumbers\bin\Debug\0.4.SumNumbers.pdb
+G:\SoftuniBasic2017\homework\SimpleLoops\0.4.SumNumbers\obj\Debug\0.4.SumNumbers.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\SimpleLoops\0.4.SumNumbers\obj\Debug\0.4.SumNumbers.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\0.4.SumNumbers\obj\Debug\0.4.SumNumbers.pdb

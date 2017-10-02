@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\01.Profit\bin\Debug\01.Profit.exe.config
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\01.Profit\bin\Debug\01.Profit.exe
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\01.Profit\bin\Debug\01.Profit.pdb
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\01.Profit\obj\Debug\01.Profit.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\01.Profit\obj\Debug\01.Profit.exe
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\01.Profit\obj\Debug\01.Profit.pdb

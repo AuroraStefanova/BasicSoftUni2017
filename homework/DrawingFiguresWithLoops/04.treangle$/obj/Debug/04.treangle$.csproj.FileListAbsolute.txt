@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\04.treangle$\bin\Debug\04.treangle$.exe.config
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\04.treangle$\bin\Debug\04.treangle$.exe
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\04.treangle$\bin\Debug\04.treangle$.pdb
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\04.treangle$\obj\Debug\04.treangle$.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\04.treangle$\obj\Debug\04.treangle$.exe
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\04.treangle$\obj\Debug\04.treangle$.pdb

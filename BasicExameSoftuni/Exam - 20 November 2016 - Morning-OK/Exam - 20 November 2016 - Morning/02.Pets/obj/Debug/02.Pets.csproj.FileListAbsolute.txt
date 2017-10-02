@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 20 November 2016 - Morning\Exam - 20 November 2016 - Morning\02.Pets\bin\Debug\02.Pets.exe.config
+G:\BasicExameSoftuni\Exam - 20 November 2016 - Morning\Exam - 20 November 2016 - Morning\02.Pets\bin\Debug\02.Pets.exe
+G:\BasicExameSoftuni\Exam - 20 November 2016 - Morning\Exam - 20 November 2016 - Morning\02.Pets\bin\Debug\02.Pets.pdb
+G:\BasicExameSoftuni\Exam - 20 November 2016 - Morning\Exam - 20 November 2016 - Morning\02.Pets\obj\Debug\02.Pets.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 20 November 2016 - Morning\Exam - 20 November 2016 - Morning\02.Pets\obj\Debug\02.Pets.exe
+G:\BasicExameSoftuni\Exam - 20 November 2016 - Morning\Exam - 20 November 2016 - Morning\02.Pets\obj\Debug\02.Pets.pdb

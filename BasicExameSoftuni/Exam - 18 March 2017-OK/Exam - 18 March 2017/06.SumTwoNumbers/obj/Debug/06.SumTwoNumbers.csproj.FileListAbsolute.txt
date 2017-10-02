@@ -1,0 +1,12 @@
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\06.SumTwoNumbers\bin\Debug\06.SumTwoNumbers.exe.config
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\06.SumTwoNumbers\bin\Debug\06.SumTwoNumbers.exe
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\06.SumTwoNumbers\bin\Debug\06.SumTwoNumbers.pdb
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\06.SumTwoNumbers\obj\Debug\06.SumTwoNumbers.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\06.SumTwoNumbers\obj\Debug\06.SumTwoNumbers.exe
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\06.SumTwoNumbers\obj\Debug\06.SumTwoNumbers.pdb
+G:\SoftUni\SoftuniBasic2017\BasicExameSoftuni\Exam - 18 March 2017-OK\Exam - 18 March 2017\06.SumTwoNumbers\bin\Debug\06.SumTwoNumbers.exe.config
+G:\SoftUni\SoftuniBasic2017\BasicExameSoftuni\Exam - 18 March 2017-OK\Exam - 18 March 2017\06.SumTwoNumbers\obj\Debug\06.SumTwoNumbers.exe
+G:\SoftUni\SoftuniBasic2017\BasicExameSoftuni\Exam - 18 March 2017-OK\Exam - 18 March 2017\06.SumTwoNumbers\obj\Debug\06.SumTwoNumbers.pdb
+G:\SoftUni\SoftuniBasic2017\BasicExameSoftuni\Exam - 18 March 2017-OK\Exam - 18 March 2017\06.SumTwoNumbers\bin\Debug\06.SumTwoNumbers.exe
+G:\SoftUni\SoftuniBasic2017\BasicExameSoftuni\Exam - 18 March 2017-OK\Exam - 18 March 2017\06.SumTwoNumbers\bin\Debug\06.SumTwoNumbers.pdb
+G:\SoftUni\SoftuniBasic2017\BasicExameSoftuni\Exam - 18 March 2017-OK\Exam - 18 March 2017\06.SumTwoNumbers\obj\Debug\06.SumTwoNumbers.csprojResolveAssemblyReference.cache

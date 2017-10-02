@@ -1,0 +1,9 @@
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\06.Generator\bin\Debug\06.Generator.exe.config
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\06.Generator\bin\Debug\06.Generator.exe
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\06.Generator\bin\Debug\06.Generator.pdb
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\06.Generator\obj\Debug\06.Generator.csprojResolveAssemblyReference.cache
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\06.Generator\obj\Debug\06.Generator.exe
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\06.Generator\obj\Debug\06.Generator.pdb
+G:\SoftUni\SoftuniBasic2017\MyExame - 7 May 2017\Exam - 7 May 2017\06.Generator\bin\Debug\06.Generator.exe.config
+G:\SoftUni\SoftuniBasic2017\MyExame - 7 May 2017\Exam - 7 May 2017\06.Generator\obj\Debug\06.Generator.exe
+G:\SoftUni\SoftuniBasic2017\MyExame - 7 May 2017\Exam - 7 May 2017\06.Generator\obj\Debug\06.Generator.pdb

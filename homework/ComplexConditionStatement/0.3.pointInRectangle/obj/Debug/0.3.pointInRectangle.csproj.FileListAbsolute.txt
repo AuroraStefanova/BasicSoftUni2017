@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.3.pointInRectangle\bin\Debug\0.3.pointInRectangle.exe.config
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.3.pointInRectangle\bin\Debug\0.3.pointInRectangle.exe
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.3.pointInRectangle\bin\Debug\0.3.pointInRectangle.pdb
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.3.pointInRectangle\obj\Debug\0.3.pointInRectangle.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.3.pointInRectangle\obj\Debug\0.3.pointInRectangle.exe
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.3.pointInRectangle\obj\Debug\0.3.pointInRectangle.pdb

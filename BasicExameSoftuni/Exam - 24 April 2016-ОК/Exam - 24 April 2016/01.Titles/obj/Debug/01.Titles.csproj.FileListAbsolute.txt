@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\01.Titles\bin\Debug\01.Titles.exe.config
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\01.Titles\bin\Debug\01.Titles.exe
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\01.Titles\bin\Debug\01.Titles.pdb
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\01.Titles\obj\Debug\01.Titles.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\01.Titles\obj\Debug\01.Titles.exe
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\01.Titles\obj\Debug\01.Titles.pdb

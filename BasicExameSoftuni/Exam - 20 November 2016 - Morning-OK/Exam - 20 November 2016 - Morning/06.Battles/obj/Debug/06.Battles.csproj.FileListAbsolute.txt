@@ -1,0 +1,5 @@
+G:\BasicExameSoftuni\Exam - 20 November 2016 - Morning\Exam - 20 November 2016 - Morning\06.Battles\bin\Debug\06.Battles.exe.config
+G:\BasicExameSoftuni\Exam - 20 November 2016 - Morning\Exam - 20 November 2016 - Morning\06.Battles\bin\Debug\06.Battles.exe
+G:\BasicExameSoftuni\Exam - 20 November 2016 - Morning\Exam - 20 November 2016 - Morning\06.Battles\bin\Debug\06.Battles.pdb
+G:\BasicExameSoftuni\Exam - 20 November 2016 - Morning\Exam - 20 November 2016 - Morning\06.Battles\obj\Debug\06.Battles.exe
+G:\BasicExameSoftuni\Exam - 20 November 2016 - Morning\Exam - 20 November 2016 - Morning\06.Battles\obj\Debug\06.Battles.pdb

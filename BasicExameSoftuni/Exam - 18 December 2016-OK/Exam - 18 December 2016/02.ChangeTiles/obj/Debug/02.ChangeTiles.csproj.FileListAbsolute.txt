@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\02.ChangeTiles\bin\Debug\02.ChangeTiles.exe.config
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\02.ChangeTiles\bin\Debug\02.ChangeTiles.exe
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\02.ChangeTiles\bin\Debug\02.ChangeTiles.pdb
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\02.ChangeTiles\obj\Debug\02.ChangeTiles.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\02.ChangeTiles\obj\Debug\02.ChangeTiles.exe
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\02.ChangeTiles\obj\Debug\02.ChangeTiles.pdb

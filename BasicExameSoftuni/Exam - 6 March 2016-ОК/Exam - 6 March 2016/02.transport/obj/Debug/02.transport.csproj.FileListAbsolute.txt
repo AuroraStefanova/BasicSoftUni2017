@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\02.transport\bin\Debug\02.transport.exe.config
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\02.transport\bin\Debug\02.transport.exe
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\02.transport\bin\Debug\02.transport.pdb
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\02.transport\obj\Debug\02.transport.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\02.transport\obj\Debug\02.transport.exe
+G:\BasicExameSoftuni\Exam - 6 March 2016\Exam - 6 March 2016\02.transport\obj\Debug\02.transport.pdb

@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.9.CelsiusToFahrenheit\bin\Debug\0.9.CelsiusToFahrenheit.exe.config
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.9.CelsiusToFahrenheit\bin\Debug\0.9.CelsiusToFahrenheit.exe
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.9.CelsiusToFahrenheit\bin\Debug\0.9.CelsiusToFahrenheit.pdb
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.9.CelsiusToFahrenheit\obj\Debug\0.9.CelsiusToFahrenheit.exe
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.9.CelsiusToFahrenheit\obj\Debug\0.9.CelsiusToFahrenheit.pdb

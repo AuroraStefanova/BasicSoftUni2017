@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\AdvancedLoops\12.Fibonacci\bin\Debug\12.Fibonacci.exe.config
+G:\SoftuniBasic2017\homework\AdvancedLoops\12.Fibonacci\bin\Debug\12.Fibonacci.exe
+G:\SoftuniBasic2017\homework\AdvancedLoops\12.Fibonacci\bin\Debug\12.Fibonacci.pdb
+G:\SoftuniBasic2017\homework\AdvancedLoops\12.Fibonacci\obj\Debug\12.Fibonacci.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\AdvancedLoops\12.Fibonacci\obj\Debug\12.Fibonacci.exe
+G:\SoftuniBasic2017\homework\AdvancedLoops\12.Fibonacci\obj\Debug\12.Fibonacci.pdb

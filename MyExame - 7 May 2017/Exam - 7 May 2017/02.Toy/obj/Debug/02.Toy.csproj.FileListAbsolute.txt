@@ -1,0 +1,6 @@
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\02.Toy\bin\Debug\02.Toy.exe.config
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\02.Toy\bin\Debug\02.Toy.exe
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\02.Toy\bin\Debug\02.Toy.pdb
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\02.Toy\obj\Debug\02.Toy.csprojResolveAssemblyReference.cache
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\02.Toy\obj\Debug\02.Toy.exe
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\02.Toy\obj\Debug\02.Toy.pdb

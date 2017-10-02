@@ -1,0 +1,5 @@
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\06.MaxCombination\bin\Debug\06.MaxCombination.exe.config
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\06.MaxCombination\bin\Debug\06.MaxCombination.exe
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\06.MaxCombination\bin\Debug\06.MaxCombination.pdb
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\06.MaxCombination\obj\Debug\06.MaxCombination.exe
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\06.MaxCombination\obj\Debug\06.MaxCombination.pdb

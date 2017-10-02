@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\02.TomCat\bin\Debug\02.TomCat.exe.config
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\02.TomCat\bin\Debug\02.TomCat.exe
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\02.TomCat\bin\Debug\02.TomCat.pdb
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\02.TomCat\obj\Debug\02.TomCat.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\02.TomCat\obj\Debug\02.TomCat.exe
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\02.TomCat\obj\Debug\02.TomCat.pdb

@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\03.MatchTickets\bin\Debug\03.MatchTickets.exe.config
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\03.MatchTickets\bin\Debug\03.MatchTickets.exe
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\03.MatchTickets\bin\Debug\03.MatchTickets.pdb
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\03.MatchTickets\obj\Debug\03.MatchTickets.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\03.MatchTickets\obj\Debug\03.MatchTickets.exe
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\03.MatchTickets\obj\Debug\03.MatchTickets.pdb

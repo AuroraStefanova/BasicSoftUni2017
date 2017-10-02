@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\07.SumSeconds\bin\Debug\07.SumSeconds.exe.config
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\07.SumSeconds\bin\Debug\07.SumSeconds.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\07.SumSeconds\bin\Debug\07.SumSeconds.pdb
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\07.SumSeconds\obj\Debug\07.SumSeconds.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\07.SumSeconds\obj\Debug\07.SumSeconds.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\07.SumSeconds\obj\Debug\07.SumSeconds.pdb

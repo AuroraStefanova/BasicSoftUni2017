@@ -1,0 +1,6 @@
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\04.FootballLeague\bin\Debug\04.FootballLeague.exe.config
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\04.FootballLeague\bin\Debug\04.FootballLeague.exe
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\04.FootballLeague\bin\Debug\04.FootballLeague.pdb
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\04.FootballLeague\obj\Debug\04.FootballLeague.csprojResolveAssemblyReference.cache
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\04.FootballLeague\obj\Debug\04.FootballLeague.exe
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\04.FootballLeague\obj\Debug\04.FootballLeague.pdb

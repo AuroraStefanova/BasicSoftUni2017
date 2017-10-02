@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\02.obraten\bin\Debug\02.obraten.exe.config
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\02.obraten\bin\Debug\02.obraten.exe
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\02.obraten\bin\Debug\02.obraten.pdb
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\02.obraten\obj\Debug\02.obraten.exe
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\02.obraten\obj\Debug\02.obraten.pdb

@@ -1,0 +1,6 @@
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\05\bin\Debug\05.exe.config
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\05\obj\Debug\05.exe
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\05\obj\Debug\05.pdb
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\05\bin\Debug\05.exe
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\05\bin\Debug\05.pdb
+C:\Users\Zori\Desktop\MyExame - 7 May 2017\Exam - 7 May 2017\05\obj\Debug\05.csprojResolveAssemblyReference.cache

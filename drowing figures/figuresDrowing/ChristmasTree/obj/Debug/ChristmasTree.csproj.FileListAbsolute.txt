@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\ChristmasTree\bin\Debug\ChristmasTree.exe
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\ChristmasTree\bin\Debug\ChristmasTree.pdb
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\ChristmasTree\obj\Debug\ChristmasTree.exe
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\ChristmasTree\obj\Debug\ChristmasTree.pdb

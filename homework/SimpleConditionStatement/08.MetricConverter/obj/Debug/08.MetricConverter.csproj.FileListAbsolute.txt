@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\08.MetricConverter\bin\Debug\08.MetricConverter.exe.config
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\08.MetricConverter\obj\Debug\08.MetricConverter.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\08.MetricConverter\bin\Debug\08.MetricConverter.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\08.MetricConverter\bin\Debug\08.MetricConverter.pdb
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\08.MetricConverter\obj\Debug\08.MetricConverter.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\08.MetricConverter\obj\Debug\08.MetricConverter.pdb

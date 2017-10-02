@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\05.Number0...9ToText\bin\Debug\_05.Number0._._._9ToText.exe.config
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\05.Number0...9ToText\bin\Debug\_05.Number0._._._9ToText.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\05.Number0...9ToText\bin\Debug\_05.Number0._._._9ToText.pdb
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\05.Number0...9ToText\obj\Debug\_05.Number0._._._9ToText.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\05.Number0...9ToText\obj\Debug\_05.Number0._._._9ToText.pdb

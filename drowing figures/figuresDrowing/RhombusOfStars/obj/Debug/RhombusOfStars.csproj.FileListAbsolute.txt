@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\RhombusOfStars\bin\Debug\RhombusOfStars.exe.config
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\RhombusOfStars\bin\Debug\RhombusOfStars.exe
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\RhombusOfStars\bin\Debug\RhombusOfStars.pdb
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\RhombusOfStars\obj\Debug\RhombusOfStars.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\RhombusOfStars\obj\Debug\RhombusOfStars.exe
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\RhombusOfStars\obj\Debug\RhombusOfStars.pdb

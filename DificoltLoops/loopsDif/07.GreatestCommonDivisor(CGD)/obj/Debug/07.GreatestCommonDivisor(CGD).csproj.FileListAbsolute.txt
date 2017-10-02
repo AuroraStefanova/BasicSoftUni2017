@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\07.GreatestCommonDivisor(CGD)\bin\Debug\07.GreatestCommonDivisor(CGD).exe.config
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\07.GreatestCommonDivisor(CGD)\bin\Debug\07.GreatestCommonDivisor(CGD).exe
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\07.GreatestCommonDivisor(CGD)\bin\Debug\07.GreatestCommonDivisor(CGD).pdb
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\07.GreatestCommonDivisor(CGD)\obj\Debug\07.GreatestCommonDivisor(CGD).csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\07.GreatestCommonDivisor(CGD)\obj\Debug\07.GreatestCommonDivisor(CGD).exe
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\07.GreatestCommonDivisor(CGD)\obj\Debug\07.GreatestCommonDivisor(CGD).pdb

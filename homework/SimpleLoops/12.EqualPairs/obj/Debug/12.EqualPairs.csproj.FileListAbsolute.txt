@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleLoops\12.EqualPairs\bin\Debug\12.EqualPairs.exe.config
+G:\SoftuniBasic2017\homework\SimpleLoops\12.EqualPairs\bin\Debug\12.EqualPairs.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\12.EqualPairs\bin\Debug\12.EqualPairs.pdb
+G:\SoftuniBasic2017\homework\SimpleLoops\12.EqualPairs\obj\Debug\12.EqualPairs.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\SimpleLoops\12.EqualPairs\obj\Debug\12.EqualPairs.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\12.EqualPairs\obj\Debug\12.EqualPairs.pdb

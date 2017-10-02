@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\12.SpeedInfo\bin\Debug\12.SpeedInfo.exe.config
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\12.SpeedInfo\bin\Debug\12.SpeedInfo.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\12.SpeedInfo\bin\Debug\12.SpeedInfo.pdb
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\12.SpeedInfo\obj\Debug\12.SpeedInfo.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\12.SpeedInfo\obj\Debug\12.SpeedInfo.pdb

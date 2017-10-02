@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\03.OddOrEven\bin\Debug\03.OddOrEven.exe.config
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\03.OddOrEven\bin\Debug\03.OddOrEven.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\03.OddOrEven\bin\Debug\03.OddOrEven.pdb
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\03.OddOrEven\obj\Debug\03.OddOrEven.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\03.OddOrEven\obj\Debug\03.OddOrEven.pdb

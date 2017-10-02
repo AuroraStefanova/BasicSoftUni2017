@@ -1,0 +1,2 @@
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\05.Rocket\bin\Debug\05.Rocket.exe.config
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\05.Rocket\obj\Debug\05.Rocket.csprojResolveAssemblyReference.cache

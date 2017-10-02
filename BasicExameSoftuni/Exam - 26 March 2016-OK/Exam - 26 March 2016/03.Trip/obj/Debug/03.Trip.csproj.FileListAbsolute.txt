@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\03.Trip\bin\Debug\03.Trip.exe.config
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\03.Trip\bin\Debug\03.Trip.exe
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\03.Trip\bin\Debug\03.Trip.pdb
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\03.Trip\obj\Debug\03.Trip.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\03.Trip\obj\Debug\03.Trip.exe
+G:\BasicExameSoftuni\Exam - 26 March 2016\Exam - 26 March 2016\03.Trip\obj\Debug\03.Trip.pdb

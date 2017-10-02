@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\04.GameOfIntervals\bin\Debug\04.GameOfIntervals.exe.config
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\04.GameOfIntervals\bin\Debug\04.GameOfIntervals.exe
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\04.GameOfIntervals\bin\Debug\04.GameOfIntervals.pdb
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\04.GameOfIntervals\obj\Debug\04.GameOfIntervals.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\04.GameOfIntervals\obj\Debug\04.GameOfIntervals.exe
+G:\BasicExameSoftuni\Exam - 18 March 2017\Exam - 18 March 2017\04.GameOfIntervals\obj\Debug\04.GameOfIntervals.pdb

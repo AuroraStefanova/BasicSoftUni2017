@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.exe.config
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.exe
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.pdb
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.exe
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.pdb

@@ -1,0 +1,12 @@
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\06.LettersCombinations\bin\Debug\06.LettersCombinations.exe.config
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\06.LettersCombinations\bin\Debug\06.LettersCombinations.exe
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\06.LettersCombinations\bin\Debug\06.LettersCombinations.pdb
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\06.LettersCombinations\obj\Debug\06.LettersCombinations.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\06.LettersCombinations\obj\Debug\06.LettersCombinations.exe
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\06.LettersCombinations\obj\Debug\06.LettersCombinations.pdb
+G:\BasicExameSoftuni\Exam - 18 December 2016-OK\Exam - 18 December 2016\06.LettersCombinations\bin\Debug\06.LettersCombinations.exe.config
+G:\BasicExameSoftuni\Exam - 18 December 2016-OK\Exam - 18 December 2016\06.LettersCombinations\obj\Debug\06.LettersCombinations.exe
+G:\BasicExameSoftuni\Exam - 18 December 2016-OK\Exam - 18 December 2016\06.LettersCombinations\obj\Debug\06.LettersCombinations.pdb
+G:\SoftUni\SoftuniBasic2017\BasicExameSoftuni\Exam - 18 December 2016-OK\Exam - 18 December 2016\06.LettersCombinations\bin\Debug\06.LettersCombinations.exe.config
+G:\SoftUni\SoftuniBasic2017\BasicExameSoftuni\Exam - 18 December 2016-OK\Exam - 18 December 2016\06.LettersCombinations\obj\Debug\06.LettersCombinations.exe
+G:\SoftUni\SoftuniBasic2017\BasicExameSoftuni\Exam - 18 December 2016-OK\Exam - 18 December 2016\06.LettersCombinations\obj\Debug\06.LettersCombinations.pdb

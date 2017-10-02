@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\helloCSharp\nums1To20\bin\Debug\nums1To20.exe.config
+G:\SoftuniBasic2017\homework\helloCSharp\nums1To20\bin\Debug\nums1To20.exe
+G:\SoftuniBasic2017\homework\helloCSharp\nums1To20\bin\Debug\nums1To20.pdb
+G:\SoftuniBasic2017\homework\helloCSharp\nums1To20\obj\Debug\nums1To20.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\helloCSharp\nums1To20\obj\Debug\nums1To20.exe
+G:\SoftuniBasic2017\homework\helloCSharp\nums1To20\obj\Debug\nums1To20.pdb

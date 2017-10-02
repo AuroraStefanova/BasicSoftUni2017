@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleLoops\11.OddOrEvenPosition\bin\Debug\11.OddOrEvenPosition.exe.config
+G:\SoftuniBasic2017\homework\SimpleLoops\11.OddOrEvenPosition\bin\Debug\11.OddOrEvenPosition.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\11.OddOrEvenPosition\bin\Debug\11.OddOrEvenPosition.pdb
+G:\SoftuniBasic2017\homework\SimpleLoops\11.OddOrEvenPosition\obj\Debug\11.OddOrEvenPosition.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\SimpleLoops\11.OddOrEvenPosition\obj\Debug\11.OddOrEvenPosition.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\11.OddOrEvenPosition\obj\Debug\11.OddOrEvenPosition.pdb

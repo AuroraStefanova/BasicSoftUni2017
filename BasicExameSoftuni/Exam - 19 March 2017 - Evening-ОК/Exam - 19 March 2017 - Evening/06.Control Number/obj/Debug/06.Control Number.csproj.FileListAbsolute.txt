@@ -1,0 +1,9 @@
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\06.Control Number\bin\Debug\06.Control Number.exe.config
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\06.Control Number\bin\Debug\06.Control Number.exe
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\06.Control Number\bin\Debug\06.Control Number.pdb
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\06.Control Number\obj\Debug\06.Control Number.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\06.Control Number\obj\Debug\06.Control Number.exe
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\06.Control Number\obj\Debug\06.Control Number.pdb
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening-ОК\Exam - 19 March 2017 - Evening\06.Control Number\bin\Debug\06.Control Number.exe.config
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening-ОК\Exam - 19 March 2017 - Evening\06.Control Number\obj\Debug\06.Control Number.exe
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening-ОК\Exam - 19 March 2017 - Evening\06.Control Number\obj\Debug\06.Control Number.pdb

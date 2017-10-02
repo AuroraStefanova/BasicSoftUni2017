@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleLoops\0.6.MinNumber\bin\Debug\0.6.MinNumber.exe.config
+G:\SoftuniBasic2017\homework\SimpleLoops\0.6.MinNumber\bin\Debug\0.6.MinNumber.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\0.6.MinNumber\bin\Debug\0.6.MinNumber.pdb
+G:\SoftuniBasic2017\homework\SimpleLoops\0.6.MinNumber\obj\Debug\0.6.MinNumber.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\0.6.MinNumber\obj\Debug\0.6.MinNumber.pdb
+G:\SoftuniBasic2017\homework\SimpleLoops\0.6.MinNumber\obj\Debug\0.6.MinNumber.csprojResolveAssemblyReference.cache

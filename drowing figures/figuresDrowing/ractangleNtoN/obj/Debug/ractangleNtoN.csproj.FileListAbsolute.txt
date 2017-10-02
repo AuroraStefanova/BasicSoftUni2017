@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\ractangleNtoN\bin\Debug\ractangleNtoN.exe.config
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\ractangleNtoN\bin\Debug\ractangleNtoN.exe
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\ractangleNtoN\bin\Debug\ractangleNtoN.pdb
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\ractangleNtoN\obj\Debug\ractangleNtoN.exe
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\ractangleNtoN\obj\Debug\ractangleNtoN.pdb

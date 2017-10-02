@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\firdtStepsCSharp\myFirstApplication\bin\Debug\myFirstApplication.exe.config
+G:\SoftuniBasic2017\homework\firdtStepsCSharp\myFirstApplication\bin\Debug\myFirstApplication.exe
+G:\SoftuniBasic2017\homework\firdtStepsCSharp\myFirstApplication\bin\Debug\myFirstApplication.pdb
+G:\SoftuniBasic2017\homework\firdtStepsCSharp\myFirstApplication\obj\Debug\myFirstApplication.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\firdtStepsCSharp\myFirstApplication\obj\Debug\myFirstApplication.exe
+G:\SoftuniBasic2017\homework\firdtStepsCSharp\myFirstApplication\obj\Debug\myFirstApplication.pdb

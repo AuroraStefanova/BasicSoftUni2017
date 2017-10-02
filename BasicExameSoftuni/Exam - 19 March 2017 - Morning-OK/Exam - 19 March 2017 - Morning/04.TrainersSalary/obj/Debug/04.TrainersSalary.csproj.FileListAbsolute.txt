@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Morning\Exam - 19 March 2017 - Morning\04.TrainersSalary\bin\Debug\04.TrainersSalary.exe.config
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Morning\Exam - 19 March 2017 - Morning\04.TrainersSalary\bin\Debug\04.TrainersSalary.exe
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Morning\Exam - 19 March 2017 - Morning\04.TrainersSalary\bin\Debug\04.TrainersSalary.pdb
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Morning\Exam - 19 March 2017 - Morning\04.TrainersSalary\obj\Debug\04.TrainersSalary.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Morning\Exam - 19 March 2017 - Morning\04.TrainersSalary\obj\Debug\04.TrainersSalary.exe
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Morning\Exam - 19 March 2017 - Morning\04.TrainersSalary\obj\Debug\04.TrainersSalary.pdb

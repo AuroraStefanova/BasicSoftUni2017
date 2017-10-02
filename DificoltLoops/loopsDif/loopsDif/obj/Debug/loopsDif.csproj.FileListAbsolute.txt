@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\loopsDif\bin\Debug\loopsDif.exe.config
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\loopsDif\bin\Debug\loopsDif.exe
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\loopsDif\bin\Debug\loopsDif.pdb
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\loopsDif\obj\Debug\loopsDif.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\loopsDif\obj\Debug\loopsDif.exe
+G:\SoftuniBasic2017\DificoltLoops\loopsDif\loopsDif\obj\Debug\loopsDif.pdb

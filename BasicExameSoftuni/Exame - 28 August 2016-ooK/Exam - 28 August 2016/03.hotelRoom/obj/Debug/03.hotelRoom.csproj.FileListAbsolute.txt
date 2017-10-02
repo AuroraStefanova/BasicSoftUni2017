@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\03.hotelRoom\bin\Debug\03.hotelRoom.exe.config
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\03.hotelRoom\bin\Debug\03.hotelRoom.exe
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\03.hotelRoom\bin\Debug\03.hotelRoom.pdb
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\03.hotelRoom\obj\Debug\03.hotelRoom.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\03.hotelRoom\obj\Debug\03.hotelRoom.exe
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\03.hotelRoom\obj\Debug\03.hotelRoom.pdb

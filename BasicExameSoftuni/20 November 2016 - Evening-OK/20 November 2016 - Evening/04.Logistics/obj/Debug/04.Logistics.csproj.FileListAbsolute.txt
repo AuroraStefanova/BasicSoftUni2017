@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\04.Logistics\bin\Debug\04.Logistics.exe.config
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\04.Logistics\bin\Debug\04.Logistics.exe
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\04.Logistics\bin\Debug\04.Logistics.pdb
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\04.Logistics\obj\Debug\04.Logistics.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\04.Logistics\obj\Debug\04.Logistics.exe
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\04.Logistics\obj\Debug\04.Logistics.pdb

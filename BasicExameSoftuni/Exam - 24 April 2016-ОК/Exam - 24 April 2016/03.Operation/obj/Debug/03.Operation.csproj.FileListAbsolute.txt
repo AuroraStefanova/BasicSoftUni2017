@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\03.Operation\bin\Debug\03.Operation.exe.config
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\03.Operation\bin\Debug\03.Operation.exe
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\03.Operation\bin\Debug\03.Operation.pdb
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\03.Operation\obj\Debug\03.Operation.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\03.Operation\obj\Debug\03.Operation.exe
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\03.Operation\obj\Debug\03.Operation.pdb

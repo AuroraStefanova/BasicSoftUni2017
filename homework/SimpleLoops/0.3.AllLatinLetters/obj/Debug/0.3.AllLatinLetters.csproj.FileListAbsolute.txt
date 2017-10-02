@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\homework\SimpleLoops\0.3.AllLatinLetters\bin\Debug\0.3.AllLatinLetters.exe.config
+G:\SoftuniBasic2017\homework\SimpleLoops\0.3.AllLatinLetters\bin\Debug\0.3.AllLatinLetters.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\0.3.AllLatinLetters\bin\Debug\0.3.AllLatinLetters.pdb
+G:\SoftuniBasic2017\homework\SimpleLoops\0.3.AllLatinLetters\obj\Debug\0.3.AllLatinLetters.exe
+G:\SoftuniBasic2017\homework\SimpleLoops\0.3.AllLatinLetters\obj\Debug\0.3.AllLatinLetters.pdb

@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\06.BonusScore\bin\Debug\06.BonusScore.exe.config
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\06.BonusScore\bin\Debug\06.BonusScore.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\06.BonusScore\bin\Debug\06.BonusScore.pdb
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\06.BonusScore\obj\Debug\06.BonusScore.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\06.BonusScore\obj\Debug\06.BonusScore.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\06.BonusScore\obj\Debug\06.BonusScore.pdb

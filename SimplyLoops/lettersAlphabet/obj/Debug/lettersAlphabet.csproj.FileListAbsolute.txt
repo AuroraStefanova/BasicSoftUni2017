@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\SimplyLoops\lettersAlphabet\bin\Debug\lettersAlphabet.exe.config
+G:\SoftuniBasic2017\SimplyLoops\lettersAlphabet\bin\Debug\lettersAlphabet.exe
+G:\SoftuniBasic2017\SimplyLoops\lettersAlphabet\bin\Debug\lettersAlphabet.pdb
+G:\SoftuniBasic2017\SimplyLoops\lettersAlphabet\obj\Debug\lettersAlphabet.exe
+G:\SoftuniBasic2017\SimplyLoops\lettersAlphabet\obj\Debug\lettersAlphabet.pdb

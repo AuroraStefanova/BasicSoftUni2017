@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\rectangle\bin\Debug\rectangle.exe.config
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\rectangle\bin\Debug\rectangle.exe
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\rectangle\bin\Debug\rectangle.pdb
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\rectangle\obj\Debug\rectangle.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\rectangle\obj\Debug\rectangle.exe
+G:\SoftuniBasic2017\drowing figures\figuresDrowing\rectangle\obj\Debug\rectangle.pdb

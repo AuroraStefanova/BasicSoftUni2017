@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.8. TradeComissions\bin\Debug\_0._8.TradeComissions.exe.config
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.8. TradeComissions\bin\Debug\_0._8.TradeComissions.exe
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.8. TradeComissions\bin\Debug\_0._8.TradeComissions.pdb
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.8. TradeComissions\obj\Debug\0.8. TradeComissions.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.8. TradeComissions\obj\Debug\_0._8.TradeComissions.exe
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.8. TradeComissions\obj\Debug\_0._8.TradeComissions.pdb

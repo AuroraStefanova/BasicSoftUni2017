@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\homework\AdvancedLoops\06.NumberInRange1To100\bin\Debug\06.NumberInRange1To100.exe.config
+G:\SoftuniBasic2017\homework\AdvancedLoops\06.NumberInRange1To100\bin\Debug\06.NumberInRange1To100.exe
+G:\SoftuniBasic2017\homework\AdvancedLoops\06.NumberInRange1To100\bin\Debug\06.NumberInRange1To100.pdb
+G:\SoftuniBasic2017\homework\AdvancedLoops\06.NumberInRange1To100\obj\Debug\06.NumberInRange1To100.exe
+G:\SoftuniBasic2017\homework\AdvancedLoops\06.NumberInRange1To100\obj\Debug\06.NumberInRange1To100.pdb

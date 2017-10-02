@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\04.Bills\bin\Debug\04.Bills.exe.config
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\04.Bills\bin\Debug\04.Bills.exe
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\04.Bills\bin\Debug\04.Bills.pdb
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\04.Bills\obj\Debug\04.Bills.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\04.Bills\obj\Debug\04.Bills.exe
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\04.Bills\obj\Debug\04.Bills.pdb

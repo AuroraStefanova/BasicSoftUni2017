@@ -1,0 +1,2 @@
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.1.personalTitles\bin\Debug\0.1.personalTitles.exe.config
+G:\SoftUni\SoftuniBasic2017\homework\ComplexConditionStatement\0.1.personalTitles\bin\Debug\0.1.personalTitles.exe.config

@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.9.DayOfWeek\bin\Debug\0.9.DayOfWeek.exe.config
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.9.DayOfWeek\bin\Debug\0.9.DayOfWeek.exe
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.9.DayOfWeek\bin\Debug\0.9.DayOfWeek.pdb
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.9.DayOfWeek\obj\Debug\0.9.DayOfWeek.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.9.DayOfWeek\obj\Debug\0.9.DayOfWeek.exe
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.9.DayOfWeek\obj\Debug\0.9.DayOfWeek.pdb

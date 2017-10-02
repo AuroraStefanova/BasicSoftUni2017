@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\helloCSharp\Expression\bin\Debug\Expression.exe.config
+G:\SoftuniBasic2017\homework\helloCSharp\Expression\bin\Debug\Expression.exe
+G:\SoftuniBasic2017\homework\helloCSharp\Expression\bin\Debug\Expression.pdb
+G:\SoftuniBasic2017\homework\helloCSharp\Expression\obj\Debug\Expression.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\helloCSharp\Expression\obj\Debug\Expression.exe
+G:\SoftuniBasic2017\homework\helloCSharp\Expression\obj\Debug\Expression.pdb

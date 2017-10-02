@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\02.ExcellentOrNot\bin\Debug\02.ExcellentOrNot.exe.config
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\02.ExcellentOrNot\bin\Debug\02.ExcellentOrNot.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\02.ExcellentOrNot\bin\Debug\02.ExcellentOrNot.pdb
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\02.ExcellentOrNot\obj\Debug\02.ExcellentOrNot.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\02.ExcellentOrNot\obj\Debug\02.ExcellentOrNot.pdb

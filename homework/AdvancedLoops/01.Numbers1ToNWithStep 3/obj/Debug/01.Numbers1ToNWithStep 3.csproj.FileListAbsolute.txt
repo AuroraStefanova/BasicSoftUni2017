@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\AdvancedLoops\01.Numbers1ToNWithStep 3\bin\Debug\01.Numbers1ToNWithStep 3.exe.config
+G:\SoftuniBasic2017\homework\AdvancedLoops\01.Numbers1ToNWithStep 3\bin\Debug\01.Numbers1ToNWithStep 3.exe
+G:\SoftuniBasic2017\homework\AdvancedLoops\01.Numbers1ToNWithStep 3\bin\Debug\01.Numbers1ToNWithStep 3.pdb
+G:\SoftuniBasic2017\homework\AdvancedLoops\01.Numbers1ToNWithStep 3\obj\Debug\01.Numbers1ToNWithStep 3.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\AdvancedLoops\01.Numbers1ToNWithStep 3\obj\Debug\01.Numbers1ToNWithStep 3.exe
+G:\SoftuniBasic2017\homework\AdvancedLoops\01.Numbers1ToNWithStep 3\obj\Debug\01.Numbers1ToNWithStep 3.pdb

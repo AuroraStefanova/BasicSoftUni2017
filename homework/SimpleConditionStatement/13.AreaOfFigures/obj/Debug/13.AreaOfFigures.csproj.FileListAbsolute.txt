@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\13.AreaOfFigures\bin\Debug\13.AreaOfFigures.exe.config
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\13.AreaOfFigures\bin\Debug\13.AreaOfFigures.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\13.AreaOfFigures\bin\Debug\13.AreaOfFigures.pdb
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\13.AreaOfFigures\obj\Debug\13.AreaOfFigures.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\13.AreaOfFigures\obj\Debug\13.AreaOfFigures.exe
+G:\SoftuniBasic2017\homework\SimpleConditionStatement\13.AreaOfFigures\obj\Debug\13.AreaOfFigures.pdb

@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\firdtStepsCSharp\SolvingExpression\bin\Debug\SolvingExpression.exe.config
+G:\SoftuniBasic2017\homework\firdtStepsCSharp\SolvingExpression\bin\Debug\SolvingExpression.exe
+G:\SoftuniBasic2017\homework\firdtStepsCSharp\SolvingExpression\bin\Debug\SolvingExpression.pdb
+G:\SoftuniBasic2017\homework\firdtStepsCSharp\SolvingExpression\obj\Debug\SolvingExpression.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\firdtStepsCSharp\SolvingExpression\obj\Debug\SolvingExpression.exe
+G:\SoftuniBasic2017\homework\firdtStepsCSharp\SolvingExpression\obj\Debug\SolvingExpression.pdb

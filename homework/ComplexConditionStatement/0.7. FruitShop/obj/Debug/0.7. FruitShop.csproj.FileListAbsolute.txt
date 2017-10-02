@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.7. FruitShop\bin\Debug\_0._7.FruitShop.exe.config
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.7. FruitShop\bin\Debug\_0._7.FruitShop.exe
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.7. FruitShop\bin\Debug\_0._7.FruitShop.pdb
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.7. FruitShop\obj\Debug\0.7. FruitShop.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.7. FruitShop\obj\Debug\_0._7.FruitShop.exe
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\0.7. FruitShop\obj\Debug\_0._7.FruitShop.pdb

@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Morning\Exam - 19 March 2017 - Morning\06.TwoNumbersSum\bin\Debug\06.TwoNumbersSum.exe.config
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Morning\Exam - 19 March 2017 - Morning\06.TwoNumbersSum\bin\Debug\06.TwoNumbersSum.exe
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Morning\Exam - 19 March 2017 - Morning\06.TwoNumbersSum\bin\Debug\06.TwoNumbersSum.pdb
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Morning\Exam - 19 March 2017 - Morning\06.TwoNumbersSum\obj\Debug\06.TwoNumbersSum.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Morning\Exam - 19 March 2017 - Morning\06.TwoNumbersSum\obj\Debug\06.TwoNumbersSum.exe
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Morning\Exam - 19 March 2017 - Morning\06.TwoNumbersSum\obj\Debug\06.TwoNumbersSum.pdb

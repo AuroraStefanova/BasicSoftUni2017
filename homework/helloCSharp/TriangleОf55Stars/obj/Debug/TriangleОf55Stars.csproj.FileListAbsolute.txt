@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\helloCSharp\TriangleОf55Stars\bin\Debug\TriangleОf55Stars.exe.config
+G:\SoftuniBasic2017\homework\helloCSharp\TriangleОf55Stars\bin\Debug\TriangleОf55Stars.exe
+G:\SoftuniBasic2017\homework\helloCSharp\TriangleОf55Stars\bin\Debug\TriangleОf55Stars.pdb
+G:\SoftuniBasic2017\homework\helloCSharp\TriangleОf55Stars\obj\Debug\TriangleОf55Stars.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\helloCSharp\TriangleОf55Stars\obj\Debug\TriangleОf55Stars.exe
+G:\SoftuniBasic2017\homework\helloCSharp\TriangleОf55Stars\obj\Debug\TriangleОf55Stars.pdb

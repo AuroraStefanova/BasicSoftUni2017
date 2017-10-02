@@ -1,0 +1,5 @@
+G:\SoftuniBasic2017\homework\AdvancedLoops\02.NumbersNTo1\bin\Debug\02.NumbersNTo1.exe.config
+G:\SoftuniBasic2017\homework\AdvancedLoops\02.NumbersNTo1\bin\Debug\02.NumbersNTo1.exe
+G:\SoftuniBasic2017\homework\AdvancedLoops\02.NumbersNTo1\bin\Debug\02.NumbersNTo1.pdb
+G:\SoftuniBasic2017\homework\AdvancedLoops\02.NumbersNTo1\obj\Debug\02.NumbersNTo1.exe
+G:\SoftuniBasic2017\homework\AdvancedLoops\02.NumbersNTo1\obj\Debug\02.NumbersNTo1.pdb

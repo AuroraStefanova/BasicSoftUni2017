@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\03.TruckDriver\bin\Debug\03.TruckDriver.exe.config
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\03.TruckDriver\bin\Debug\03.TruckDriver.exe
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\03.TruckDriver\bin\Debug\03.TruckDriver.pdb
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\03.TruckDriver\obj\Debug\03.TruckDriver.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\03.TruckDriver\obj\Debug\03.TruckDriver.exe
+G:\BasicExameSoftuni\Exam - 19 March 2017 - Evening\Exam - 19 March 2017 - Evening\03.TruckDriver\obj\Debug\03.TruckDriver.pdb

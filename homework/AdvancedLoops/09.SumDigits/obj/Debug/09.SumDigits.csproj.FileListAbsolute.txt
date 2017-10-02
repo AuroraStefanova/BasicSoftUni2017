@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\AdvancedLoops\09.SumDigits\bin\Debug\09.SumDigits.exe.config
+G:\SoftuniBasic2017\homework\AdvancedLoops\09.SumDigits\bin\Debug\09.SumDigits.exe
+G:\SoftuniBasic2017\homework\AdvancedLoops\09.SumDigits\bin\Debug\09.SumDigits.pdb
+G:\SoftuniBasic2017\homework\AdvancedLoops\09.SumDigits\obj\Debug\09.SumDigits.exe
+G:\SoftuniBasic2017\homework\AdvancedLoops\09.SumDigits\obj\Debug\09.SumDigits.pdb
+G:\SoftuniBasic2017\homework\AdvancedLoops\09.SumDigits\obj\Debug\09.SumDigits.csprojResolveAssemblyReference.cache

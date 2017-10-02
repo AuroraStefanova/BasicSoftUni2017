@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\03.SquareOfStars\bin\Debug\03.SquareOfStars.exe.config
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\03.SquareOfStars\bin\Debug\03.SquareOfStars.exe
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\03.SquareOfStars\bin\Debug\03.SquareOfStars.pdb
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\03.SquareOfStars\obj\Debug\03.SquareOfStars.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\03.SquareOfStars\obj\Debug\03.SquareOfStars.exe
+G:\SoftuniBasic2017\homework\DrawingFiguresWithLoops\03.SquareOfStars\obj\Debug\03.SquareOfStars.pdb

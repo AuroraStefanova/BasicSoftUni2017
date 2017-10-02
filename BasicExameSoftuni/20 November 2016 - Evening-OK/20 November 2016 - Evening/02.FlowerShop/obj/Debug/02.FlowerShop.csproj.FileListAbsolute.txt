@@ -1,0 +1,5 @@
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\02.FlowerShop\bin\Debug\02.FlowerShop.exe.config
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\02.FlowerShop\bin\Debug\02.FlowerShop.exe
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\02.FlowerShop\bin\Debug\02.FlowerShop.pdb
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\02.FlowerShop\obj\Debug\02.FlowerShop.exe
+G:\BasicExameSoftuni\20 November 2016 - Evening\20 November 2016 - Evening\02.FlowerShop\obj\Debug\02.FlowerShop.pdb

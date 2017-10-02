@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\11.Cinema\bin\Debug\11.Cinema.exe.config
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\11.Cinema\bin\Debug\11.Cinema.exe
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\11.Cinema\bin\Debug\11.Cinema.pdb
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\11.Cinema\obj\Debug\11.Cinema.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\11.Cinema\obj\Debug\11.Cinema.exe
+G:\SoftuniBasic2017\homework\ComplexConditionStatement\11.Cinema\obj\Debug\11.Cinema.pdb

@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 20 November 2016 - Morning\Exam - 20 November 2016 - Morning\04.SoftUniCamp\bin\Debug\04.SoftUniCamp.exe.config
+G:\BasicExameSoftuni\Exam - 20 November 2016 - Morning\Exam - 20 November 2016 - Morning\04.SoftUniCamp\bin\Debug\04.SoftUniCamp.exe
+G:\BasicExameSoftuni\Exam - 20 November 2016 - Morning\Exam - 20 November 2016 - Morning\04.SoftUniCamp\bin\Debug\04.SoftUniCamp.pdb
+G:\BasicExameSoftuni\Exam - 20 November 2016 - Morning\Exam - 20 November 2016 - Morning\04.SoftUniCamp\obj\Debug\04.SoftUniCamp.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 20 November 2016 - Morning\Exam - 20 November 2016 - Morning\04.SoftUniCamp\obj\Debug\04.SoftUniCamp.exe
+G:\BasicExameSoftuni\Exam - 20 November 2016 - Morning\Exam - 20 November 2016 - Morning\04.SoftUniCamp\obj\Debug\04.SoftUniCamp.pdb

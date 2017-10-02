@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\04.Lili\bin\Debug\04.Lili.exe.config
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\04.Lili\bin\Debug\04.Lili.exe
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\04.Lili\bin\Debug\04.Lili.pdb
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\04.Lili\obj\Debug\04.Lili.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\04.Lili\obj\Debug\04.Lili.exe
+G:\BasicExameSoftuni\Exam - 24 April 2016\Exam - 24 April 2016\04.Lili\obj\Debug\04.Lili.pdb

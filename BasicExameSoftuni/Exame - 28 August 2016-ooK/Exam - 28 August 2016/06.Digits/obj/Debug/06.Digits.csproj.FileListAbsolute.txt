@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\06.Digits\bin\Debug\06.Digits.exe.config
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\06.Digits\bin\Debug\06.Digits.exe
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\06.Digits\bin\Debug\06.Digits.pdb
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\06.Digits\obj\Debug\06.Digits.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\06.Digits\obj\Debug\06.Digits.exe
+G:\BasicExameSoftuni\Exame - 28 August 2016\Exam - 28 August 2016\06.Digits\obj\Debug\06.Digits.pdb

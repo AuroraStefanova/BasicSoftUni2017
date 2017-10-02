@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\06.StopNum\bin\Debug\06.StopNum.exe.config
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\06.StopNum\bin\Debug\06.StopNum.exe
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\06.StopNum\bin\Debug\06.StopNum.pdb
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\06.StopNum\obj\Debug\06.StopNum.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\06.StopNum\obj\Debug\06.StopNum.exe
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\06.StopNum\obj\Debug\06.StopNum.pdb

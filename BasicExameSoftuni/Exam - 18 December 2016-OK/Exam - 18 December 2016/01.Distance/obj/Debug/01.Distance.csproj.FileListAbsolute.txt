@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\01.Distance\bin\Debug\01.Distance.exe.config
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\01.Distance\bin\Debug\01.Distance.exe
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\01.Distance\bin\Debug\01.Distance.pdb
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\01.Distance\obj\Debug\01.Distance.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\01.Distance\obj\Debug\01.Distance.exe
+G:\BasicExameSoftuni\Exam - 18 December 2016\Exam - 18 December 2016\01.Distance\obj\Debug\01.Distance.pdb

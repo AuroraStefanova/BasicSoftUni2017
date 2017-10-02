@@ -1,0 +1,6 @@
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.7.2DRectangleArea\bin\Debug\0.7.2DRectangleArea.exe.config
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.7.2DRectangleArea\bin\Debug\0.7.2DRectangleArea.exe
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.7.2DRectangleArea\bin\Debug\0.7.2DRectangleArea.pdb
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.7.2DRectangleArea\obj\Debug\0.7.2DRectangleArea.csprojResolveAssemblyReference.cache
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.7.2DRectangleArea\obj\Debug\0.7.2DRectangleArea.exe
+G:\SoftuniBasic2017\homework\SimpleCalculations\0.7.2DRectangleArea\obj\Debug\0.7.2DRectangleArea.pdb

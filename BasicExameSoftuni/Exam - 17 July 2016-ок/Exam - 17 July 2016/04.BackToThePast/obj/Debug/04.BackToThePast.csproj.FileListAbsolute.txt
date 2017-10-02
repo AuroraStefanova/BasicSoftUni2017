@@ -1,0 +1,6 @@
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\04.BackToThePast\bin\Debug\04.BackToThePast.exe.config
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\04.BackToThePast\bin\Debug\04.BackToThePast.exe
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\04.BackToThePast\bin\Debug\04.BackToThePast.pdb
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\04.BackToThePast\obj\Debug\04.BackToThePast.csprojResolveAssemblyReference.cache
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\04.BackToThePast\obj\Debug\04.BackToThePast.exe
+G:\BasicExameSoftuni\Exam - 17 July 2016\Exam - 17 July 2016\04.BackToThePast\obj\Debug\04.BackToThePast.pdb
