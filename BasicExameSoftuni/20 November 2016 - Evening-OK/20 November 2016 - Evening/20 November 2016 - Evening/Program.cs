@@ -10,6 +10,7 @@ namespace _20_November_2016___Evening
     {
         static void Main(string[] args)
         {
+			// pesho e master ninja 
         }
     }
 }
